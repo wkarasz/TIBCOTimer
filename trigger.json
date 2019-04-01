@@ -3,7 +3,7 @@
   "type": "flogo:trigger",
   "ref": "github.com/TIBCOSoftware/flogo-contrib/trigger/timer",
   "version": "0.0.1",
-  "title": "TIBCOTimer",
+  "title": "timer",
   "description": "Simple Timer trigger",
   "homepage": "https://github.com/wkarasz/TIBCOTimer",
   "settings": [
