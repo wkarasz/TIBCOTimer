@@ -1,4 +1,4 @@
-package timer
+package TIBCOTimer
 
 import (
 	"context"

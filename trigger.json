@@ -1,7 +1,7 @@
 {
-  "name": "flogo-timer",
+  "name": "flogo-TIBCOTimer",
   "type": "flogo:trigger",
-  "ref": "github.com/TIBCOSoftware/flogo-contrib/trigger/timer",
+  "ref": "github.com/wkarasz/TIBCOTimer",
   "version": "0.0.1",
   "title": "timer",
   "description": "Simple Timer trigger",
